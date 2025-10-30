@@ -1,0 +1,6 @@
+ResinLauncher 1
+    + Added Changelogue
+    + Added Frame
+    + Added Buttons (Don't do anything yet)
+ResinLauncher 2
+    + Changelogue now pulls from this file
